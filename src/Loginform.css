@@ -1,0 +1,12 @@
+.formData{
+    background-color: burlywood;
+    border: 2px solid black;
+    display: flex;
+    justify-content: center;
+    margin-left: 350px;
+    margin-right: 350px;
+    height:250px
+}
+.formData button{
+    margin-left: 40px;
+}
